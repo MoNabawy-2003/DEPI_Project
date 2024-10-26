@@ -31,8 +31,8 @@ This project focuses on configuring network settings for two company branches an
 - Protect sensitive data through encryption and strict access controls.
 
 ## Team Members
+- Ahmed Sabry Mohamed El-Bayoumi Kabil
 - Mohamed Elsayed Ibrahem Sayed
 - Shady Hossam Eissa Abdelkhaleq
 - Ebrahem Mohamed Abdelmageed Hassan
-- Ahmed Sabry Mohamed El-Bayoumi
 - Mohamed Ayman Nabawy Abd El-Maksoud
