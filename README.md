@@ -8,9 +8,9 @@ This project focuses on configuring network settings for two company branches an
 
 ## Details
 ### Branch Configuration
-- Configuration of network devices (routers, switches, firewalls) at each branch.
+- Configuration of network devices (routers, switches) at each branch.
 - Implementation of VLANs for segmenting and managing network traffic.
-- Setup of DHCP, DNS, and other essential network services.
+- Setup of DHCP, DNS, Web, FTP and other essential network services.
 
 ### Inter-Branch Link
 - Establishing redundant connections between branches using two different ISPs to ensure high availability and failover capabilities.
@@ -24,14 +24,15 @@ This project focuses on configuring network settings for two company branches an
 - Setting up firewalls and access control lists (ACLs) to protect network perimeters.
 - Regular security audits and monitoring to maintain network integrity.
 
-## Technologies Used
-- Cisco IOS for network device configuration.
-- Various network protocols like OSPF, BGP, IPsec.
-- Monitoring and management tools for continuous oversight.
 
 ## Goals
 - Ensure reliable and secure connectivity between two company branches.
 - Achieve high availability with ISP redundancy.
 - Protect sensitive data through encryption and strict access controls.
 
-## Repository Structure
+## Team Members
+- Mohamed Elsayed Ibrahem Sayed
+- Shady Hossam Eissa Abdelkhaleq
+- Ebrahem Mohamed Abdelmageed Hassan
+- Ahmed Sabry Mohamed El-Bayoumi
+- Mohamed Ayman Nabawy Abd El-Maksoud
